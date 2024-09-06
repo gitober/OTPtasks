@@ -7,8 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Array" />
-        <module name="TemperatureConverterExercise" />
+        <module name="TemperatureConverter" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TemperatureConverterExercise" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
