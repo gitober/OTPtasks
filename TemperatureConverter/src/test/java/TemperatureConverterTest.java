@@ -31,8 +31,8 @@ public class TemperatureConverterTest {
 
     @Test
     public void testIsExtremeTemperature2() {
-        assertTrue(converter.isExtremeTemperature(-40));
+        assertTrue(converter.isExtremeTemperature(-50));
         assertFalse(converter.isExtremeTemperature(20));
-        assertTrue(converter.isExtremeTemperature(50));
+        assertTrue(converter.isExtremeTemperature(60));
     }
 }

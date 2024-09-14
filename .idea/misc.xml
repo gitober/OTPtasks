@@ -7,6 +7,10 @@
         <option value="$PROJECT_DIR$/Array/pom.xml" />
         <option value="$PROJECT_DIR$/TemperatureConverterExercise/pom.xml" />
         <option value="$PROJECT_DIR$/TemperatureConverter/pom.xml" />
+        <option value="$PROJECT_DIR$/Account/pom.xml" />
+        <option value="$PROJECT_DIR$/StringManipulator/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenTask/pom.xml" />
+        <option value="$PROJECT_DIR$/TemperatureConverter2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Array" />
+        <module name="Account" />
         <module name="TemperatureConverter" />
+        <module name="StringManipulator" />
+        <module name="Laskin5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="TemperatureConverter2" target="21" />
       <module name="TemperatureConverterExercise" target="21" />
     </bytecodeTargetLevel>
   </component>
